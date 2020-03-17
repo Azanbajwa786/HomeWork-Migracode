@@ -1,0 +1,59 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.logo {
+  color: whitesmoke;
+  font-weight: lighter;
+  font-size: 3em;
+  font-family: cursive;
+  text-align: center;
+  color: black;
+}
+
+.Menu {
+  font-size: 25px;
+  text-align: center;
+  color: black;
+}
+
+.demo1 {
+  font-size: 2em;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+
+.demo12 {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 2em;
+  color: black;
+  font-size: 15px;
+  font-family: cursive;
+  border: 3px solid black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.footer {
+  border: 3px solid black;
+  margin-right: 10%;
+  padding-bottom: 2em;
+  margin-left: 10%;
+  background-color: darkkhaki;
+  text-align: center;
+  padding-top: 2em;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+.Menu ul li:first-child{
+  color: red;
+}
