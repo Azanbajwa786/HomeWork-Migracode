@@ -56,4 +56,6 @@ ul li {
 
 .Menu ul li:first-child{
   color: red;
+   background-color: red;
+   text-decoration: none;
 }
